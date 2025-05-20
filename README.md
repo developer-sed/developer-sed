@@ -23,8 +23,9 @@ We are a passionate team of developers building scalable and efficient web solut
 - Internal CRMs and ERP systems
 
 ## 📫 Reach Us At
-- Email: contact@developer-sed.com
+- Email: developer@searchedu.in
 - Website: [www.developer-sed.com](http://searcheducation.com)
+- Contact Us: https://www.searcheducation.com/contactus
 - LinkedIn: [[linkedin.com/company/developer-sed](https://linkedin.com/company/developer-sed)]
 
 ## 😄 Pronouns
